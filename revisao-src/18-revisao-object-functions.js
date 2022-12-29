@@ -10,7 +10,7 @@ console.log(Object.keys(person))
 console.log(Object.values(person))
 
 // Object.entries() - Cria um array com um array de objetos e valores.
-console.log(Object.entries(person))
+ 
 
 const livros = {
     'Livro A': 19.90,
